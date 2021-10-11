@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100934335409",
+    "project_id": "chinmaya-chat-app",
+    "storage_bucket": "chinmaya-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100934335409:android:845a8fb7997a628ee09b90",
+        "android_client_info": {
+          "package_name": "com.example.chinmayachatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100934335409-rrbf0koarukm4ite3m9p5ffk6bqr513m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBGK1lNof1LJkSicCmUNRdhXY1puR44zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100934335409-rrbf0koarukm4ite3m9p5ffk6bqr513m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

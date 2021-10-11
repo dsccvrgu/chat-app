@@ -8,3 +8,7 @@ BUILT WITH:-
 Technologies are used:-
 *JAVA
 *Firebase
+ 
+ GETTING STARTED:-
+you can download this file and edit the code by downloading android studio with JAVA
+ 
